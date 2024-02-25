@@ -8,4 +8,4 @@ The obective is to showcase various works related to the database including SQL 
 
 
 * If a new customer is obtained, can we determine high-value customers based purely on their demographic information?
-** classify a high-value customer
+  * classify a high-value customer
